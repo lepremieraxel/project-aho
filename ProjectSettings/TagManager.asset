@@ -41,3 +41,21 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ground
+    uniqueID: 805044327
+    locked: 0
+  - name: Obstacles
+    uniqueID: 1064197031
+    locked: 0
+  - name: BetweenDown
+    uniqueID: 2356062605
+    locked: 0
+  - name: Player
+    uniqueID: 4138758895
+    locked: 0
+  - name: Ennemis
+    uniqueID: 1068649735
+    locked: 0
+  - name: BetweenUp
+    uniqueID: 4006643451
+    locked: 0

@@ -50,11 +50,11 @@ TagManager:
   - name: BetweenDown
     uniqueID: 2356062605
     locked: 0
-  - name: Player
-    uniqueID: 4138758895
-    locked: 0
   - name: Ennemis
     uniqueID: 1068649735
+    locked: 0
+  - name: Player
+    uniqueID: 4138758895
     locked: 0
   - name: BetweenUp
     uniqueID: 4006643451
